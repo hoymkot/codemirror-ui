@@ -3,7 +3,8 @@
 			path : 'js/',
 		},
 		codeMirrorOptions : {
-		      buttons: ['search', 'undo', 'redo', 'jump', 'reindentSelection', 'reindent']
+		      buttons: ['search', 'undo', 'redo', 'jump', 'reindentSelection', 'reindent'],
+			  lineNumbers : true
 
 		},		
 		buttons : [ [ "new button", "new", "/images/silk/help.png", function() {
