@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="js"/>
+	<classpathentry kind="src" path="lib/CodeMirror-2.0/css"/>
+	<classpathentry kind="src" path="lib/CodeMirror-2.0/demo"/>
+	<classpathentry kind="src" path="lib/CodeMirror-2.0/lib"/>
+	<classpathentry kind="src" path="lib/CodeMirror-2.0/mode/clike"/>
+	<classpathentry kind="src" path="lib/CodeMirror-2.0/mode/css"/>
+	<classpathentry kind="src" path="lib/CodeMirror-2.0/mode/diff"/>
+	<classpathentry kind="src" path="lib/CodeMirror-2.0/mode/haskell"/>
+	<classpathentry kind="src" path="lib/CodeMirror-2.0/mode/htmlmixed"/>
+	<classpathentry kind="src" path="lib/CodeMirror-2.0/mode/javascript"/>
+	<classpathentry kind="src" path="lib/CodeMirror-2.0/mode/php"/>
+	<classpathentry kind="src" path="lib/CodeMirror-2.0/mode/stex"/>
+	<classpathentry kind="src" path="lib/CodeMirror-2.0/mode/xml"/>
+	<classpathentry kind="src" path="lib/CodeMirror-2.0/test"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
