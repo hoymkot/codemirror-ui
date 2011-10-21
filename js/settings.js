@@ -4,7 +4,7 @@
 		},
 		codeMirrorOptions : {
 		      buttons: ['search', 'undo', 'redo', 'jump', 'reindentSelection', 'reindent'],
-			  lineNumbers : true
+			  lineNumbers : true, 
 
 		},		
 		buttons : [ [ "new button", "new", "/images/silk/help.png", function() {
